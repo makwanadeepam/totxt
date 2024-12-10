@@ -22,7 +22,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/totxt.git
+git clone https://github.com/makwanadeepam/totxt.git
 cd totxt
 
 # (Optional) Create and activate a virtual environment
