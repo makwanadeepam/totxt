@@ -1,3 +1,0 @@
-chardet
-rich
-typer

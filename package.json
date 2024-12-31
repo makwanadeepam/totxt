@@ -1,0 +1,33 @@
+{
+  "name": "totxt",
+  "version": "1.0.1",
+  "description": "Convert source code files in a repository to a single text file",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "totxt": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "repository",
+    "txt",
+    "converter"
+  ],
+  "author": "Deepam Makwana & Dev Shinde",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "*",
+    "commander": "*",
+    "fs-extra": "*",
+    "globby": "*",
+    "iconv-lite": "*",
+    "ignore": "^6.0.2",
+    "mime-types": "*",
+    "progress": "*",
+    "simple-git": "*"
+  }
+}
